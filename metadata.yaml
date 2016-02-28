@@ -1,0 +1,28 @@
+_repo: The-Babylonian-Story-of-the-Deluge-as-Told-by-Assyrian-Tablets-from-Nineveh-The-Discovery-of-t__7096
+creator:
+  author:
+    agent_name: Budge, E. A. Wallis (Ernest Alfred Wallis), Sir
+    aliases:
+    - Budge, Ernest Alfred Thompson Wallis, Sir
+    - Budge, Ernest Alfred Wallis, Sir
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '2338'
+    url: http://www.gutenberg.org/2009/agents/2338
+    wikipedia: http://en.wikipedia.org/wiki/E._A._Wallis_Budge
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Deluge'
+- !lcc 'PJ'
+- !lcsh 'Libraries -- Iraq -- Nineveh (Extinct city)'
+title: "The Babylonian Story of the Deluge as Told by Assyrian Tablets from Nineveh\r\
+  \nThe Discovery of the Tablets at Nineveh by Layard, Rassam and Smith"
+url: http://www.gutenberg.org/ebooks/7096
